@@ -1,0 +1,5 @@
+{
+  "name": "MIDI Measure Parser",
+  "description": "Parse MIDI files into human-readable musical notation organized by measures.",
+  "requestFramePermissions": []
+}
